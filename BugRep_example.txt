@@ -5,7 +5,7 @@ Title
 Steps to reproduce
 Expected result
 Actual result
-attachment[D[D[D[D[D[D[D[D[D[D[A[C[C[C[C[C[C[C[C[C[C[D
+attachment
 ///
 Severity
 Priority
