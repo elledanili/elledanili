@@ -9,6 +9,14 @@
 - 💞️ I’m looking forward to join the team of forward-thinking and energetic professionals;)
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-danilina/)
 
+___
+### ✍My CV:
++ English [is here](https://drive.google.com/file/d/1D2z0U37BvZGDQqjhDc-4FgF8SV7TBqF1/view?usp=sharing);
++ Russian [is here](https://drive.google.com/file/d/10Y46yHwYXdIcMXwA5XSWsaZuUQujqL1M/view?usp=sharing).
+___
+
+
+
 <!---
 elledanili/elledanili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
