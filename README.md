@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m Elena Danilina
 - 👀 I'm interested to pursue my career in Software Testing
-- 🌱 I’m currently learning JavaScript for Test Automation
+- 🌱 I’m currently learning Java for Test Automation
 - 💞️ I’m looking forward to join the team of forward-thinking and energetic professionals;)
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-danilina/)
 
