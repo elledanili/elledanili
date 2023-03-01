@@ -13,6 +13,9 @@ ___
 ### ✍My CV:
 + English [is here](https://drive.google.com/file/d/1D2z0U37BvZGDQqjhDc-4FgF8SV7TBqF1/view?usp=sharing);
 + Russian [is here](https://drive.google.com/file/d/10Y46yHwYXdIcMXwA5XSWsaZuUQujqL1M/view?usp=sharing).
+
+### ✅ Test documentation: 
+- [Here is](https://docs.google.com/spreadsheets/d/1hydAb_1br5cp_QwpY6_sot7_jTObzt4vyW9BTUnWyNQ/edit?usp=sharing) examples of my test documentation: checklists and bug-reports.
 ___
 
 
